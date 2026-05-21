@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate and results-driven Full Stack Developer with a strong foundation in building scalable, user-centric applications. I combine technical excellence with problem-solving creativity to deliver impactful solutions. My journey in software development is driven by curiosity, continuous learning, and a commitment to writing clean, maintainable code.
+I'm a passionate and results-driven Full Stack Developer with a strong foundation in building scalable, user-centric applications. I combine technical excellence with problem-solving creativity to deliver innovative solutions. My projects span across web development, IoT systems, and real-world applications that solve practical problems.
 
 **Key Strengths:**
 - 🎯 Full-Stack Development (Frontend & Backend)
@@ -23,46 +23,109 @@ I'm a passionate and results-driven Full Stack Developer with a strong foundatio
 
 ## 💼 Featured Projects
 
-### 🌐 [Personal Portfolio Website](https://github.com/udaykirangundlapalli/portfolio)
-**Technologies:** React.js, Node.js, MongoDB, CSS3, Responsive Design
+### 🎬 [ShowtimeHub](https://github.com/udaykirangundlapalli/ShowtimeHub)
+**Technologies:** JavaScript, HTML5, CSS3, Responsive Design  
+**License:** Apache 2.0
 
-A comprehensive portfolio showcasing my projects and skills with an intuitive user interface. Built with modern web technologies to demonstrate expertise in both frontend design and backend development.
+A modern, responsive web application designed to simplify the cinema-going experience. Intuitive interface for browsing movie showtimes, checking theater details, and managing bookings.
 
 **Key Features:**
 - ✨ Fully responsive design optimized for all devices
-- 🎨 Modern UI/UX with smooth animations
-- 📊 Project showcase with detailed descriptions
-- 💬 Contact form with email integration
+- 🎬 Dynamic movie catalog and showtime management
+- 📅 Real-time theater availability
+- 💳 Booking system with local storage persistence
+- 🎨 Modern UI with smooth animations
+
+**Impact:** 12.9 KB optimized codebase | Public repository
 
 ---
 
-### ✅ [Task Management Application](https://github.com/udaykirangundlapalli/task-manager)
-**Technologies:** React, Node.js, Express.js, PostgreSQL, Redux
+### 🧬 [IoT-Enabled Smart E-Healthcare System](https://github.com/udaykirangundlapalli/IoT-Enabled-Smart-E-Healthcare-System-with-Predictive-Prescription-Algorithm)
+**Technologies:** IoT Sensors, Cloud Analytics, Predictive Algorithms, Healthcare Integration
 
-A robust full-stack task management solution designed to help users organize and prioritize their daily work efficiently.
+An innovative healthcare solution that monitors patient health using IoT sensors and cloud analytics. Real-time data analysis with predictive algorithms to detect health risks and suggest preliminary prescriptions.
 
 **Key Features:**
-- 🔐 User authentication and authorization
-- 📝 CRUD operations for task management
-- 🏷️ Task categorization and tagging
-- 📅 Due date tracking and notifications
-- 🎯 Real-time updates with WebSockets
+- 🏥 Real-time patient health monitoring via IoT sensors
+- 🤖 Predictive prescription algorithm for risk detection
+- 📊 Cloud-based analytics and data processing
+- 🔔 Alerts for doctors and caregivers
+- 👨‍⚕️ Remote monitoring and consultation capabilities
+- 📈 Historical data tracking and trend analysis
 
-**Impact:** Improved productivity tracking for 100+ beta users
+**Impact:** Advanced healthcare automation | Patent-worthy innovation
 
 ---
 
-### 🌤️ [Weather Forecast Application](https://github.com/udaykirangundlapalli/weather-app)
-**Technologies:** React, Open Weather API, Chart.js, Geolocation API
+### 🥛 [Nandini Milk Parlour](https://github.com/udaykirangundlapalli/-Nandini-Milk-Parlour-)
+**Technologies:** JavaScript, HTML5, CSS3, Local Storage, Glassmorphism UI
 
-A feature-rich weather application providing real-time weather data and forecasts with beautiful data visualization.
+A premium dairy brand e-commerce front-end featuring a dynamic product catalog with advanced filtering and a glassmorphism design aesthetic.
 
 **Key Features:**
-- 🌍 Real-time weather data from multiple sources
-- 📈 Interactive weather charts and graphs
-- 🗺️ Location-based forecasts
-- 🔄 Data caching for optimal performance
+- 🛒 Dynamic product catalog with real-time filtering
+- ⭐ Favorites system with local storage persistence
+- 🎨 Glassmorphism UI design (modern & elegant)
 - 📱 Mobile-first responsive design
+- 🔍 Advanced product search and categorization
+- 💾 Client-side data persistence
+
+**Impact:** Professional brand showcase | 7.2 KB optimized
+
+---
+
+### ✈️ [Fly High - Travel Bucket List](https://github.com/udaykirangundlapalli/Fly-High)
+**Technologies:** JavaScript, APIs, Weather Integration, Modern UI
+
+A modern travel application that enables users to explore global destinations, check real-time weather conditions, and curate personal travel bucket lists.
+
+**Key Features:**
+- 🌍 Global destination exploration
+- 🌤️ Real-time weather integration for locations
+- 📝 Personal travel bucket list management
+- 🗺️ Interactive destination maps
+- 💾 Persistent storage for saved destinations
+- 📱 Responsive mobile design
+
+---
+
+### 🛡️ [CyberShield Workshop Landing Page](https://github.com/udaykirangundlapalli/Cyber_webinar)
+**Technologies:** Node.js, CSS, Backend Registration, Payment Processing
+
+A comprehensive CyberShield workshop landing page with integrated Node.js backend, Razorpay payments, email confirmation, and protected admin viewer.
+
+**Key Features:**
+- 📝 User registration with email confirmation
+- 💳 Razorpay payment integration
+- 🔐 Protected admin panel for participant management
+- 📧 Automated email notifications
+- 🎨 Responsive landing page design
+- 📊 Admin dashboard for event management
+
+---
+
+### 💬 [Chat Bot Application](https://github.com/udaykirangundlapalli/CHAT_BOT)
+**Technologies:** CSS, Interactive UI, Conversational AI
+
+An interactive chatbot application providing real-time conversations with an intuitive user interface.
+
+**Key Features:**
+- 🤖 Conversational interface
+- ⚡ Real-time message processing
+- 🎨 Clean and intuitive UI
+
+---
+
+### 😄 [Funny Emoji Generator](https://github.com/udaykirangundlapalli/Funny-emoji-)
+**Technologies:** JavaScript, API Integration, Creative UI
+
+A playful web application that generates emoji-based sentences from keywords, creating fun and shareable content.
+
+**Key Features:**
+- 🎯 Keyword-based emoji generation
+- 😊 Creative sentence composition
+- 🎨 Fun and engaging interface
+- 📤 Easy sharing capabilities
 
 ---
 
@@ -76,36 +139,45 @@ A feature-rich weather application providing real-time weather data and forecast
 ![CSS3](https://img.shields.io/badge/CSS3-Expert-blue?style=flat-square&logo=css3)
 
 ### **Frontend Development**
-- React.js, Vue.js, Redux, Context API
-- Responsive Design, Material-UI, Bootstrap
-- REST API Integration, GraphQL
+- JavaScript, HTML5, CSS3
+- Responsive Design, Glassmorphism, Modern UI/UX
+- Local Storage & Client-side State Management
+- API Integration & Data Visualization
 
 ### **Backend Development**
-- Node.js, Express.js, Django
-- Database Design & Optimization
-- Authentication & Authorization
+- Node.js, Express.js
+- RESTful API Development
+- Payment Integration (Razorpay)
+- Email Services & Notifications
 
-### **Databases**
-- PostgreSQL, MongoDB, MySQL
-- Database Design & Normalization
+### **Specialized Areas**
+- IoT Systems & Sensor Integration
+- Cloud Analytics & Data Processing
+- Predictive Algorithms
+- Healthcare Technology Solutions
 
 ### **Tools & Platforms**
-- Git & GitHub, Docker, VS Code
-- Postman, Chrome DevTools
-- AWS Basics, Vercel, Heroku
+- Git & GitHub
+- VS Code
+- Postman
+- Chrome DevTools
+- Razorpay (Payment Processing)
+- Node.js Runtime
 
 ### **Soft Skills**
 - Problem-Solving, Communication
 - Team Collaboration, Agile Methodologies
-- Code Review & Documentation
+- Code Documentation & Best Practices
+- Quick Learning & Adaptability
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaykirangundlapalli&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udaykirangundlapalli&layout=compact&theme=radical)
+- 📦 **9+ Public Repositories** - Diverse project portfolio
+- 🔧 **Full-Stack Development** - End-to-end project delivery
+- 🚀 **Active Development** - Continuously building and improving
+- 🌐 **Web & IoT Projects** - From web apps to healthcare systems
 
 ---
 
@@ -113,38 +185,40 @@ A feature-rich weather application providing real-time weather data and forecast
 
 I'm committed to continuous improvement and staying current with industry trends:
 
-- 📚 Currently Learning: Advanced React Patterns, System Design
-- 🔍 Exploring: Cloud Technologies (AWS, Azure), Microservices
-- 🏆 Certifications: [List your relevant certifications here]
+- 📚 **Currently Learning:** Advanced System Design, Cloud Infrastructure
+- 🔍 **Exploring:** AWS/Azure, Microservices Architecture, Machine Learning
+- 🏆 **Focus Areas:** Scalability, Performance Optimization, User Experience
 
 ---
 
 ## 🌟 Highlights
 
-✅ **Shipped 15+ Projects** - From concept to production  
+✅ **9+ Projects Shipped** - From concept to production  
+✅ **Full-Stack Expertise** - Frontend to backend mastery  
+✅ **Innovation-Focused** - IoT, Healthcare, and Creative Solutions  
 ✅ **Clean Code Advocate** - Emphasis on readability and maintainability  
-✅ **Performance Focused** - Optimized applications with fast load times  
+✅ **Performance Optimized** - Fast, efficient applications  
 ✅ **User-Centric Design** - Building solutions that matter  
-✅ **Open to Collaboration** - Active in code reviews and team discussions
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm actively looking for opportunities to contribute to innovative projects and grow as a developer. Whether you're interested in collaborating, have a project in mind, or just want to chat about tech:
+I'm actively looking for opportunities to contribute to innovative projects and grow as a developer. Whether you're interested in collaborating on a full-stack project, have an exciting opportunity, or just want to discuss tech, I'd love to hear from you!
 
-📧 **Email:** your.email@example.com  
-💼 **LinkedIn:** [Uday Kirangundlapalli](https://linkedin.com/in/udaykirangundlapalli)  
-🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
-💬 **Discord:** YourHandle#0000
+📧 **Email:** udaykirangundlapalli@example.com  
+💼 **LinkedIn:** [Uday Kirangundlapalli](https://www.linkedin.com/in/g-uday-kiran-b03a2a24a/)  
+🌐 **GitHub:** [github.com/udaykirangundlapalli](https://github.com/udaykirangundlapalli)  
+🐙 **View My Repositories:** [All Projects](https://github.com/udaykirangundlapalli?tab=repositories)
 
 ---
 
-## 📝 Latest Blog Posts (Optional)
+## 💡 Current Focus
 
-- [Building Scalable React Applications](https://medium.com/@yourname)
-- [Database Optimization Tips for Node.js](https://medium.com/@yourname)
-- [Full-Stack Development Best Practices](https://medium.com/@yourname)
+- 🔨 Building production-ready applications
+- 📈 Optimizing performance and scalability
+- 🤝 Open to collaboration and mentoring
+- 💼 Seeking opportunities in full-stack development
 
 ---
 
@@ -154,5 +228,4 @@ This repository and its contents are available for viewing and reference. Feel f
 
 ---
 
-**Last Updated:** May 2026 | Actively Seeking Full-Stack Developer Roles | Open to Remote & On-Site Opportunities
-
+**Last Updated:** May 2026 | Actively Seeking Full-Stack Developer & IoT Solutions Opportunities | Open to Remote & On-Site Roles | Available for Freelance Projects
