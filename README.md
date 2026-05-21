@@ -206,7 +206,7 @@ I'm committed to continuous improvement and staying current with industry trends
 
 I'm actively looking for opportunities to contribute to innovative projects and grow as a developer. Whether you're interested in collaborating on a full-stack project, have an exciting opportunity, or just want to discuss tech, I'd love to hear from you!
 
-📧 **Email:** udaykirangundlapalli@example.com  
+📧 **Email:** udaygundlapalli@gmail.com  
 💼 **LinkedIn:** [Uday Kirangundlapalli](https://www.linkedin.com/in/g-uday-kiran-b03a2a24a/)  
 🌐 **GitHub:** [github.com/udaykirangundlapalli](https://github.com/udaykirangundlapalli)  
 🐙 **View My Repositories:** [All Projects](https://github.com/udaykirangundlapalli?tab=repositories)
